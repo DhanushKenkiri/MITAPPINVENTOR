@@ -234,10 +234,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities:
 
-- **Project Repository:** [GitHub Repository URL]
-- **Issues:** [GitHub Issues URL]
-- **Discussions:** [GitHub Discussions URL]
-
+- **Project Repository:** https://github.com/DhanushKenkiri/MITAPPINVENTOR
+- **DSRK** https://linkedin.com/in/itsdsrk
 ---
 
 **Note:** This project is part of the 24ETIM16 educational initiative, demonstrating practical mobile application development using visual programming tools.
