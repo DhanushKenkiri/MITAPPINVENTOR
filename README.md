@@ -238,8 +238,6 @@ For questions, suggestions, or collaboration opportunities:
 - **DSRK** https://linkedin.com/in/itsdsrk
 ---
 
-**Note:** This project is part of the 24ETIM16 educational initiative, demonstrating practical mobile application development using visual programming tools.
-
 ## 🔄 Quick Start Guide
 
 1. **Clone or download this repository**
