@@ -1,0 +1,15 @@
+# Minimal .gitignore - Ensuring all project files are tracked
+# Only excluding system/temporary files that shouldn't be in version control
+
+# System generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Note: All .aia files, screenshots, and project assets are intentionally tracked
+# to ensure complete project preservation and sharing
